@@ -1,4 +1,4 @@
-## Objective, Target, and Analysis
+## Objective
 
 This project trains a compact depthwise-separable CNN (MobileNet-inspired) on CIFAR-10 aiming for strong accuracy with low params and good inference efficiency. We iterated on augmentation, dropout, scheduler, and the network layout to steadily improve generalization.
 
